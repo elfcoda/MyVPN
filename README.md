@@ -1,5 +1,6 @@
 # MyVPN
-## （  
+## （先前可能是浏览的东西太过敏感导致ip被封
+## （如果服务不可用可以发邮件给707935952@qq.com  
 
 * ip:        &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;45.63.52.26 
 * port:      &ensp;&ensp;&ensp;&ensp;&ensp;20190  
