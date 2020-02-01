@@ -1,5 +1,5 @@
 # MyVPN
-## （这个IP已经不可用了，可用的服务暂未更新  
+## （这个IP已经不可用了(可能是浏览的东西太敏感了（下次一定注意）)，可用的服务暂未更新）  
 
 * ip:        &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;149.28.137.136 
 * port:      &ensp;&ensp;&ensp;&ensp;&ensp;20190  
